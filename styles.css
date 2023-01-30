@@ -1,3 +1,11 @@
+body {
+    background-image: url('images/IMG_0025.jpeg');
+    top: -25%;
+    left: -25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .topNav {
     display: flex;
     flex-direction: row;
@@ -26,5 +34,5 @@
     text-decoration: none;
     color: #111;
     font-size: 20px;
-    padding: 10px;
+    padding: 20px;
 }
